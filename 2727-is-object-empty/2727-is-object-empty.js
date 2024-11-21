@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-   for (const _ in ob) return false;
+   for (const _ in obj) return false;
    return true;
     
 };
